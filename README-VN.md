@@ -47,16 +47,16 @@ Nếu các bạn có thắc mắc hoặc bình luận liên quan, xin vui lòng 
 
 - [The Definitive Guide to Contributing to Open Source](https://www.freecodecamp.org/news/the-definitive-guide-to-contributing-to-open-source-900d5f9f2282/) viết bởi [@DoomHammerNG](https://twitter.com/DoomHammerNG)
 - [An Intro to Open Source](https://www.digitalocean.com/community/tutorial_series/an-introduction-to-open-source) - Hướng dẫn cách để bắt đầu đóng góp cho cộng đồng Open-Source trên GitHub. Đươc viết bởi DigitalOcean.
-- [Code Triage](https://www.codetriage.com/) - another, really nice, tool for finding popular repositories and issues filtered by language. Một công cụ rất bổ ích để tìm những repositories nổi tiếng trên Github mà bạn có thể đóng góp. Công cụ này có chức năng lọc theo ngôn ngữ.
-- [Forge Your Future with Open Source](https://pragprog.com/titles/vbopens/forge-your-future-with-open-source/) ($) - Book devoted to explaining open source, how to find a project, and how to start contributing. Inclusive of all roles in software development, not just programmers.
-- [Awesome-for-beginners](https://github.com/MunGell/awesome-for-beginners) - a GitHub repo that amasses projects with good bugs for new contributors, and applies labels to describe them.
-- [Open Source Guides](https://opensource.guide/) - Collection of resources for individuals, communities, and companies who want to learn how to run and contribute to an Open Source project.
-- [45 Github Issues Dos and Don’ts](https://hackernoon.com/45-github-issues-dos-and-donts-dfec9ab4b612) - Do's and Don'ts on GitHub.
-- [GitHub Guides](https://docs.github.com/) - basic guides on how to use GitHub effectively.
-- [Contribute to Open Source](https://github.com/danthareja/contribute-to-open-source) - Learn the GitHub workflow by contributing code to a simulation project.
-- [Linux Foundation's Open Source Guides for the Enterprise](https://www.linuxfoundation.org/resources/open-source-guides/) - The Linux Foundation's guides to Open Source projects.
-- [CSS Tricks An Open Source Etiquette Guidebook](https://css-tricks.com/open-source-etiquette-guidebook/) - An Open Source Etiquette Guidebook, written by Kent C. Dodds And Sarah Drasner.
-- [A to Z Resources for Students](https://github.com/dipakkr/A-to-Z-Resources-for-Students) - Curated list of resources and opportunities for college students to learn a new coding language.
+- [Code Triage](https://www.codetriage.com/) - Một công cụ rất bổ ích để tìm những repositories nổi tiếng trên Github mà bạn có thể đóng góp. Công cụ này có chức năng lọc theo ngôn ngữ.
+- [Forge Your Future with Open Source](https://pragprog.com/titles/vbopens/forge-your-future-with-open-source/) ($) -  Sách viết và giải thích về các dự án Open-Source, làm thế nào để tìm một dự án như vậy, và hướng dẫn bạn cách bắt đầu với việc đóng góp. Sách này nhắm tới tất cả đối tượng người đọc, không chỉ giới hạn ở những lập trình viên.
+- [Awesome-for-beginners](https://github.com/MunGell/awesome-for-beginners) - Một repository trên GitHub tồn tại như một danh sách của những dự án Open-Source với nhiều lỗi (bugs) để cho các bạn mới làm quen với Open-Source có cơ hội để đóng góp!
+- [Open Source Guides](https://opensource.guide/) - Một tổ hợp của nhiều nguồn dẫn, kiến thức cho những cá nhân, tổ chức, và cơ quan nào muốn học thêm về cách đóng góp cho các dự án Open-Source.
+- [45 Github Issues Dos and Don’ts](https://hackernoon.com/45-github-issues-dos-and-donts-dfec9ab4b612) - Như nên và không nên làm trên GitHub.
+- [GitHub Guides](https://docs.github.com/) - basic guides on how to use GitHub effectively. Documentation giải thích làm thế nào để sử dụng GitHub một cách hiệu quả.
+- [Contribute to Open Source](https://github.com/danthareja/contribute-to-open-source) - Học những khái niệm và quy trình trên GitHub bằng cách đóng góp cho một chương trình mô phỏng.
+- [Linux Foundation's Open Source Guides for the Enterprise](https://www.linuxfoundation.org/resources/open-source-guides/) - Một bài viết hướng dẫn từ Linux Foundation về các dự án Open-Source.
+- [CSS Tricks An Open Source Etiquette Guidebook](https://css-tricks.com/open-source-etiquette-guidebook/) - An Open Source Etiquette Guidebook, written by Kent C. Dodds And Sarah Drasner. Một quyển sách hướng dẫn về các "lễ nghi" khi đóng góp vào các dự án Open-Source.
+- [A to Z Resources for Students](https://github.com/dipakkr/A-to-Z-Resources-for-Students) - Curated list of resources and opportunities for college students to learn a new coding language. Một danh sách về những tài liệu, nguồn dẫn, và cơ hội cho các học sinh đại học để học những ngôn ngữ lập trình mới.
 - [Pull Request Roulette](http://www.pullrequestroulette.com/) - This site has a list of pull requests submitted for review belonging to Open Source projects hosted on Github.
 - ["How to Contribute to an Open Source Project on GitHub" by Egghead.io](https://egghead.io/courses/how-to-contribute-to-an-open-source-project-on-github) - A step-by-step video guide of how to start contributing to Open Source projects on GitHub.
 - [Contributing to Open Source: A Live Walkthrough from Beginning to End](https://medium.com/@kevinjin/contributing-to-open-source-walkthrough-part-0-b3dc43e6b720) - This walkthrough of an open source contribution covers everything from picking a suitable project, working on an issue, to getting the PR merged in.
@@ -78,8 +78,6 @@ Nếu các bạn có thắc mắc hoặc bình luận liên quan, xin vui lòng 
 
 ## Tìm kiếm liên quan trên GitHub
 
-> Search links that point directly to suitable issues to contribute to on GitHub.
-
 - [is:issue is:open label:beginner](https://github.com/search?q=is%3Aissue+is%3Aopen+label%3Abeginner&type=issues)
 - [is:issue is:open label:easy](https://github.com/search?q=is%3Aissue+is%3Aopen+label%3Aeasy&type=issues)
 - [is:issue is:open label:first-timers-only](https://github.com/search?q=is%3Aissue+is%3Aopen+label%3Afirst-timers-only&type=issues)
@@ -92,8 +90,6 @@ Nếu các bạn có thắc mắc hoặc bình luận liên quan, xin vui lòng 
 - [is:issue is:open label:your-first-pr](https://github.com/search?q=is%3Aissue+is%3Aopen+label%3Ayour-first-pr&type=issues)
 
 ## Môi trường đóng góp của Mozillas
-
-> Mozilla pledges for a healthy internet and with it, has opportunities to contribute to its open-source projects.
 
 - [Good First Bugs](https://bugzilla.mozilla.org/buglist.cgi?quicksearch=good-first-bug) - bugs that developers have identified as a good introduction to the project.
 - [MDN Web Docs](https://developer.mozilla.org/en-US/docs/MDN/Contribute) - help the MDN Web Docs team in documenting the web platform by fixing content issues and platform bugs.
@@ -207,4 +203,4 @@ Nếu các bạn có thắc mắc hoặc bình luận liên quan, xin vui lòng 
 
 ## Giấy Phép
 
-<a rel="license" href="https://creativecommons.org/licenses/by-sa/4.0/"><img alt="Creative Commons License" style="border-width:0" src="https://licensebuttons.net/l/by-sa/4.0/88x31.png" /></a><br />This work is licensed under a <a rel="license" href="https://creativecommons.org/licenses/by-sa/4.0/">Creative Commons Attribution-ShareAlike 4.0 International License</a>.
+<a rel="license" href="https://creativecommons.org/licenses/by-sa/4.0/"><img alt="Creative Commons License" style="border-width:0" src="https://licensebuttons.net/l/by-sa/4.0/88x31.png" /></a><br /> Tài liệu này được cấp phép bởi <a rel="license" href="https://creativecommons.org/licenses/by-sa/4.0/">Creative Commons Attribution-ShareAlike 4.0 International License</a>.
