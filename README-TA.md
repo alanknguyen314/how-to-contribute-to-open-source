@@ -16,6 +16,7 @@
         <li><a href="./README-KO.md"> 한국어 </a></li>
         <li><a href="./README-JA.md"> 日本語 </a></li>
         <li><a href="./README-TA.md"> தமிழ் </a></li>
+        <td><a href="./README-VN.md"> Tiếng Việt </a></td>
     </ul>
 </details>
 
