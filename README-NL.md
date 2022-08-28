@@ -17,6 +17,7 @@
         <li><a href="./README-GR.md"> Ελληνικά </a></li>
         <li><a href="./README-FR.md"> Français </a></li>
         <li><a href="./README-KO.md"> 한국어 </a></li>
+        <td><a href="./README-VN.md"> Tiếng Việt </a></td>
     </ul>
 </details>
 <!-- Do not translate this -->
